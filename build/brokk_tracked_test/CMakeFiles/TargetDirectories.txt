@@ -1,0 +1,9 @@
+/home/hisham/brokk_ws/build/brokk_tracked_test/CMakeFiles/uninstall.dir
+/home/hisham/brokk_ws/build/brokk_tracked_test/CMakeFiles/brokk_tracked_test_uninstall.dir
+/home/hisham/brokk_ws/build/brokk_tracked_test/CMakeFiles/test.dir
+/home/hisham/brokk_ws/build/brokk_tracked_test/CMakeFiles/edit_cache.dir
+/home/hisham/brokk_ws/build/brokk_tracked_test/CMakeFiles/rebuild_cache.dir
+/home/hisham/brokk_ws/build/brokk_tracked_test/CMakeFiles/list_install_components.dir
+/home/hisham/brokk_ws/build/brokk_tracked_test/CMakeFiles/install.dir
+/home/hisham/brokk_ws/build/brokk_tracked_test/CMakeFiles/install/local.dir
+/home/hisham/brokk_ws/build/brokk_tracked_test/CMakeFiles/install/strip.dir

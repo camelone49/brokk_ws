@@ -1,0 +1,6 @@
+Invoking command in '/home/hisham/brokk_ws/build/brokk_tracked_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/hisham/brokk_ws/src/brokk_tracked_test -DCMAKE_INSTALL_PREFIX=/home/hisham/brokk_ws/install/brokk_tracked_test
+Invoked command in '/home/hisham/brokk_ws/build/brokk_tracked_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/hisham/brokk_ws/src/brokk_tracked_test -DCMAKE_INSTALL_PREFIX=/home/hisham/brokk_ws/install/brokk_tracked_test
+Invoking command in '/home/hisham/brokk_ws/build/brokk_tracked_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/hisham/brokk_ws/build/brokk_tracked_test -- -j12 -l12
+Invoked command in '/home/hisham/brokk_ws/build/brokk_tracked_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/hisham/brokk_ws/build/brokk_tracked_test -- -j12 -l12
+Invoking command in '/home/hisham/brokk_ws/build/brokk_tracked_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/hisham/brokk_ws/build/brokk_tracked_test
+Invoked command in '/home/hisham/brokk_ws/build/brokk_tracked_test' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/hisham/brokk_ws/build/brokk_tracked_test

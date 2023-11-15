@@ -1,0 +1,11 @@
+[0.068s] Invoking command in '/home/hisham/brokk_ws/build/brokk_tracked_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/hisham/brokk_ws/build/brokk_tracked_test -- -j12 -l12
+[0.095s] Invoked command in '/home/hisham/brokk_ws/build/brokk_tracked_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/hisham/brokk_ws/build/brokk_tracked_test -- -j12 -l12
+[0.117s] Invoking command in '/home/hisham/brokk_ws/build/brokk_tracked_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/hisham/brokk_ws/build/brokk_tracked_test
+[0.122s] -- Install configuration: ""
+[0.122s] [31mCMake Error at cmake_install.cmake:46 (file):
+[0.122s]   file INSTALL cannot find
+[0.122s]   "/home/hisham/brokk_ws/src/brokk_tracked_test/rviz": No such file or
+[0.122s]   directory.
+[0.122s] 
+[0.122s] [0m
+[0.123s] Invoked command in '/home/hisham/brokk_ws/build/brokk_tracked_test' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/hisham/brokk_ws/build/brokk_tracked_test
