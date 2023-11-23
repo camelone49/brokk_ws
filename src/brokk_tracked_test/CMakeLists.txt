@@ -34,7 +34,7 @@ endif()
 
 install(
   DIRECTORY rviz urdf models launch worlds
-  DESTINATION share/${PROJECT_NAME}/
+  DESTINATION share/${PROJECT_NAME}
 )
 
 

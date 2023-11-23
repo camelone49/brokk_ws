@@ -1,0 +1,46 @@
+-- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/hisham/brokk_ws/build/brokk_tracked_test
+-- Install configuration: ""
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//rviz
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//rviz/r2d2.rviz
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//urdf
+-- Installing: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//urdf/inertial_macros.xacro
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//urdf/brokkmodel_v2.xacro
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//urdf/brokk170_control_v2.xacro
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//urdf/common_properties.xacro
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//urdf/testurdf.xacro
+-- Installing: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//urdf/brokkmodel_test
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//urdf/brokk170_gazebo_v2.xacro
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//models
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//models/meshes
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//models/meshes/brokk_base_collision.stl
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//models/meshes/wheel.stl
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//models/meshes/brokk_base_edit.stl
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//launch
+-- Installing: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//launch/test.launch.py
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//launch/display.launch.py
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test//worlds
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/ament_index/resource_index/package_run_dependencies/brokk_tracked_test
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/ament_index/resource_index/parent_prefix_path/brokk_tracked_test
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/environment/ament_prefix_path.sh
+-- Installing: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/environment/path.sh
+-- Installing: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/environment/path.dsv
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/local_setup.bash
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/local_setup.sh
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/local_setup.zsh
+-- Installing: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/local_setup.dsv
+-- Installing: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/package.dsv
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/ament_index/resource_index/packages/brokk_tracked_test
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/cmake/brokk_tracked_testConfig.cmake
+-- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/cmake/brokk_tracked_testConfig-version.cmake
+-- Installing: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/package.xml

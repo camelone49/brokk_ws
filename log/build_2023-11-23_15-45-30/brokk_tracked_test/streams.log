@@ -1,0 +1,45 @@
+[0.067s] Invoking command in '/home/hisham/brokk_ws/build/brokk_tracked_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/hisham/brokk_ws/build/brokk_tracked_test -- -j12 -l12
+[0.092s] Invoked command in '/home/hisham/brokk_ws/build/brokk_tracked_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/hisham/brokk_ws/build/brokk_tracked_test -- -j12 -l12
+[0.112s] Invoking command in '/home/hisham/brokk_ws/build/brokk_tracked_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/hisham/brokk_ws/build/brokk_tracked_test
+[0.118s] -- Install configuration: ""
+[0.118s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/rviz
+[0.118s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/rviz/display.rviz
+[0.119s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/rviz/config.rviz
+[0.119s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/rviz/r2d2.rviz
+[0.119s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/urdf
+[0.119s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/urdf/inertial_macros.xacro
+[0.119s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/urdf/brokkmodel_v2.xacro
+[0.119s] -- Installing: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/urdf/brokk170_control_v2.xacro
+[0.119s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/urdf/common_properties.xacro
+[0.119s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/urdf/testurdf.xacro
+[0.119s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/urdf/brokkmodel_test
+[0.119s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/urdf/brokk170_gazebo_v2.xacro
+[0.119s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/models
+[0.120s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/models/meshes
+[0.120s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/models/meshes/brokk_base_collision.stl
+[0.120s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/models/meshes/wheel.stl
+[0.120s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/models/meshes/brokk_base_edit.stl
+[0.120s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/models/meshes/track_box_approx.stl
+[0.120s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/launch
+[0.121s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/launch/test.launch.py
+[0.121s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/launch/display.launch.py
+[0.121s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/launch/gazebo.launch.py
+[0.121s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/worlds
+[0.121s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/ament_index/resource_index/package_run_dependencies/brokk_tracked_test
+[0.122s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/ament_index/resource_index/parent_prefix_path/brokk_tracked_test
+[0.122s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/environment/ament_prefix_path.sh
+[0.122s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/environment/ament_prefix_path.dsv
+[0.122s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/environment/path.sh
+[0.122s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/environment/path.dsv
+[0.122s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/local_setup.bash
+[0.123s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/local_setup.sh
+[0.123s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/local_setup.zsh
+[0.123s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/local_setup.dsv
+[0.123s] -- Installing: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/package.dsv
+[0.123s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/ament_index/resource_index/packages/brokk_tracked_test
+[0.123s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.124s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.124s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/cmake/brokk_tracked_testConfig.cmake
+[0.124s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/cmake/brokk_tracked_testConfig-version.cmake
+[0.125s] -- Up-to-date: /home/hisham/brokk_ws/install/brokk_tracked_test/share/brokk_tracked_test/package.xml
+[0.125s] Invoked command in '/home/hisham/brokk_ws/build/brokk_tracked_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/hisham/brokk_ws/build/brokk_tracked_test

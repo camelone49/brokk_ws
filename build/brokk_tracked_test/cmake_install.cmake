@@ -43,7 +43,7 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/brokk_tracked_test/" TYPE DIRECTORY FILES
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/brokk_tracked_test" TYPE DIRECTORY FILES
     "/home/hisham/brokk_ws/src/brokk_tracked_test/rviz"
     "/home/hisham/brokk_ws/src/brokk_tracked_test/urdf"
     "/home/hisham/brokk_ws/src/brokk_tracked_test/models"

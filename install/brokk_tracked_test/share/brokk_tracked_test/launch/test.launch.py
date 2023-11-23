@@ -7,7 +7,6 @@ import xacro
 import os
 from ament_index_python.packages import get_package_share_directory
 
-
 def generate_launch_description():
     share_dir = get_package_share_directory('brokk_tracked_test')
 
