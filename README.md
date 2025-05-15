@@ -1,6 +1,6 @@
 # brokk_ws
 
-Disclaimer -- since I am still working at the Institute, i cannot share critical files here.
+Disclaimer -- since I am still working at the Institute, I cannot share critical files here.
 
 Für rviz aufruf:
 
